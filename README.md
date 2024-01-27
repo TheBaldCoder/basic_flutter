@@ -1,3 +1,3 @@
 # basic_flutter
 
-A new Flutter project.
+A basic Flutter project that will display data from a Laravel Api project.
