@@ -1,4 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Need this to access the internet for android applications. -->
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:label="basic_flutter"
         android:name="${applicationName}"
